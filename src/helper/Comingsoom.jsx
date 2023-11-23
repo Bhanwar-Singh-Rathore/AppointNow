@@ -6,7 +6,7 @@ function Comingsoom() {
         <div>
    
            
-         <CountdownTimer/>
+       <p>coming soon</p>
         </div>
     )
 }
