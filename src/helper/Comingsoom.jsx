@@ -1,5 +1,5 @@
 
-import CountdownTimer from "./CountDownTimer"
+// import CountdownTimer from "./CountDownTimer"
 
 function Comingsoom() {
     return (
